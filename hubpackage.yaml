@@ -3,3 +3,8 @@ name: Package1
 programs:
   Hello:
     type: standard
+    programFile: Hello.sas
+    results:
+      _webout:
+        resultType: stream
+        resultContentType: text/plain
