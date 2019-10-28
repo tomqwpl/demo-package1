@@ -1,0 +1,5 @@
+hubpackage: 1.0.0
+name: Package1
+programs:
+  Hello:
+    type: standard
