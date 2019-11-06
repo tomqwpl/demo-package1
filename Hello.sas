@@ -1,4 +1,4 @@
 data _null_;
 file _webout;
-put "Even more Updatedasd Greeting";
+put "Even more Updated Greeting";
 run;
